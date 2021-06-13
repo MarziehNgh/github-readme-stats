@@ -94,6 +94,7 @@ Change the `?username=` value to your GitHub's username.
 ```md
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ```
+[![Anurag's GitHub stats](https://github-readme-stats-marziehngh.vercel.app/api?username=MarziehNgh)](https://github.com/anuraghazra/github-readme-stats)
 
 _Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone).
 The values are calculated by using the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) using commits, contributions, issues, stars, pull requests, followers, and owned repositories.
@@ -125,9 +126,9 @@ _Note: If you are deploying this project yourself, the private contributions wil
 
 To enable icons, you can pass `show_icons=true` in the query param, like so:
 
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-```
+
+![Anurag's GitHub stats](https://github-readme-stats-marziehngh.vercel.app/api?username=MarziehNgh&show_icons=true)
+
 
 ### Themes
 
@@ -135,9 +136,9 @@ With inbuilt themes, you can customize the look of the card without doing any [m
 
 Use `?theme=THEME_NAME` parameter like so :-
 
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-```
+
+![Anurag's GitHub stats](https://github-readme-stats-marziehngh.vercel.app/api?username=MarziehNgh&show_icons=true&theme=radical)
+
 
 #### All inbuilt themes :-
 
